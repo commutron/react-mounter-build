@@ -1,6 +1,6 @@
 {
   "_from": "react-mounter",
-  "_id": "react-mounter@1.2.0",
+  "_id": "react-mounter@1.3.0",
   "_inBundle": false,
   "_integrity": "sha512-2FaQrSCCrKIsGah0IRLPppoB7P7QdzHcPk1vmP3guHxyWIqZxQtQbiBNhV3QyBwDwJUlXn9+l4uNa7qOOVGdqQ==",
   "_location": "/react-mounter",
@@ -75,5 +75,5 @@
     "test": "npm run lint && npm run testonly",
     "testonly": "mocha $npm_package_options_mocha"
   },
-  "version": "1.2.0"
+  "version": "1.3.0"
 }
